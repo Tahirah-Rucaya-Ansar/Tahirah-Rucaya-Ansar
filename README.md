@@ -1,16 +1,16 @@
-<!-- ## 👋 &nbsp;Hey there! I'm O'Neil -->
+<!-- ## 👋 &nbsp;Hey! I'm Tahirah -->
 <h3 id="-about-me">👨🏻‍💻 &nbsp;About Me</h3>
-<p>💡 &nbsp;I am a hardworking quality oriented student of software development<br>
-🎓 &nbsp;I’m currently studying software development with Eduvos_<br>
+<p>⭐ &nbsp;I am a hardworking results-oriented software developer student.<br>
+📚 &nbsp;I’m currently studying software development with Eduvos<br>
 🌱 &nbsp;I’m currently learning Python, C#, Java and Sql<br>
-✍ &nbsp;In my free time, i like gaming, reading,crocheting, sewing and watching anime<br>
-💬 &nbsp;If you wanna message me, you can reach me on my whatsapp, if you wanna find out more about me or just become friends feel free to text me :)<br>
+🦋 &nbsp;In my free time, i like gaming, reading,crocheting, sewing and watching anime<br>
+📱 &nbsp;If you wanna message me, you can reach me on my whatsapp, if you wanna find out more about me or just become friends feel free to text me :)<br>
 ✉ &nbsp;You can send me an email at <a href="mailto:tahirahansar@gmail.com">tahirahansar@gmail.com</a>! I’ll try to respond as soon as possible.<br>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right">
 <h3 id="-tech-stack">🛠 &nbsp;Tech Stack</h3>
 <p><img src="https://img.shields.io/badge/-Python-05122A?style=flat&amp;logo=python" alt="Python">&nbsp;
 <img src="https://img.shields.io/badge/-Java-05122A?style=flat&amp;logo=Java&amp;logoColor=FFA518" alt="Java">&nbsp;
-<img src="[https://img.shields.io/badge/-C-05122A?style=flat&amp;logo=C&amp;logoColor=A8B9CC](https://img.shields.io/badge/C%23-blue?style=flat&logo=C&logoColor=white&logoSize=auto&color=blue&cacheSeconds=3600)" alt="C#">&nbsp;
+<img alt="C#" src="https://img.shields.io/badge/C%23-white?style=flat&logo=C&logoColor=white&logoSize=auto&color=purple&cacheSeconds=3600">
 <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&amp;logo=HTML5" alt="HTML">&nbsp;
 <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&amp;logo=CSS3&amp;logoColor=1572B6" alt="CSS">&nbsp;
 <img src="https://img.shields.io/badge/-Git-05122A?style=flat&amp;logo=git" alt="Git">&nbsp;
@@ -22,10 +22,10 @@
 <img alt="SQL" src="https://img.shields.io/badge/mySql-white?style=flat&logo=mysql&logoColor=white&logoSize=auto&color=grey&cacheSeconds=3600">
 <h3 id="-github-analytics">⚙ &nbsp;GitHub Analytics</h3>
 <p align="center">
-<a href="https://github.com/ONeil-Ratty">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ONeil-Ratty&amp;show_icons=true&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ONeil-Ratty&amp;layout=compact&amp;langs_count=8&amp;theme=algolia">
+<a href="https://github.com/Tahirah-Rucaya-Ansar">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tahirah-Rucaya-Ansar&amp;show_icons=true&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tahirah-Rucaya-Ansar&amp;layout=compact&amp;langs_count=8&amp;theme=algolia">
 </a>
 </p>
 
-<p>Credits: <a href="https://github.com/ONeil-Ratty">ONeil Ratty</a></p>
+<p>Credits: <a href="https://github.com/Tahirah-Rucaya-Ansar">Tahirah Ansar</a></p>
